@@ -194,7 +194,7 @@ namespace Core
         }
         void czekMuw()
         {
-            Console.WriteLine("MOVE");
+            //Console.WriteLine("MOVE");
         }
     }
 }
