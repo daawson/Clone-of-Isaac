@@ -11,4 +11,4 @@ Sterowanie:
 
 LPM będąc w trybie świateł, dodaje nowe źródło.
 
-Do uruchomienia potrzeba biblioteki/projektu [Otter2D] (https://www.otter2d.com)
+Do uruchomienia potrzeba biblioteki/projektu [Otter2D](https://www.otter2d.com)
